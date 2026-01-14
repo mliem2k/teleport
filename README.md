@@ -5,7 +5,7 @@ A REST API service that optimizes truck load selection by finding the optimal co
 ## How to run
 
 ```bash
-git clone https://github.com/<username>/teleport.git
+git clone https://github.com/mliem2k/teleport.git
 cd teleport
 docker compose up --build
 ```
